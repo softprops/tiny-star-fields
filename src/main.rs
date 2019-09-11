@@ -10,10 +10,7 @@ fn stars() -> impl Iterator<Item = String> {
         let take = (rng.gen::<f32>() * 5.0).floor() as usize + 5;
         STARS
             .choose_multiple(&mut rng, take)
-            .fold(String::new(), |mut res, star| {
-                res.push_str(star);
-                res
-            })
+            .fold(String::new(), |res, line| res + line)
     })
 }
 
