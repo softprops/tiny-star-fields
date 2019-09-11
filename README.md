@@ -104,3 +104,5 @@ An excersize and reproducing one of my [favorite twitter account's](http://colle
        ⋆ 　 ✹   　　 +
 　　　  ˚   　　 ·
 ```
+
+Doug Tangren (softprops) 2019
