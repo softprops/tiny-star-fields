@@ -1,4 +1,4 @@
-//! A random start field generated inspired by artwork by [@tiny_star_fields](https://twitter.com/tiny_star_field) on Twitter
+//! A random start field inspired by artwork by [@tiny_star_fields](https://twitter.com/tiny_star_field) on Twitter
 use rand::{seq::SliceRandom, Rng};
 use std::iter::repeat_with;
 
